@@ -14,6 +14,6 @@ Create a CloudFront distribution to serve the S3-hosted static files with low la
 
 Expected Outcome:
 
-Upon completing the project, you will have a working serverless web application hosted on AWS. They will have hands-on experience building a serverless application using AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, and Cognito. Additionally, they will have experience working with AWS services and integrating them to build a complete solution.
+Upon completing the project, we will have a working serverless web application hosted on AWS. We will have hands-on experience building a serverless application using AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, and Cognito. Additionally,we will have experience working with AWS services and integrating them to build a complete solution.
 
-This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
+This project will help us to improve skills in cloud computing, serverless architecture, and AWS services.
